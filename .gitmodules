@@ -1,0 +1,4 @@
+[submodule "Assets/UnityCommon"]
+	path = Assets/UnityCommon
+	url = https://github.com/lostfictions/UnityCommon.git
+	branch = master
